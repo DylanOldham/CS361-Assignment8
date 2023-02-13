@@ -23,3 +23,6 @@ Receiving Data:
 
 To receive data from the microservice, you simply read scores.txt after performing any of the interactions. This result will persist in scores.txt until another interaction is performed, and this will be up-to-date because only the interactions can change the scores.
 
+UML Sequence Diagram:
+
+![UML Sequence Diagram](umlsequence.png)
